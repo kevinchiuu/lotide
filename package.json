@@ -1,7 +1,7 @@
 {
   "name": "@kevchew/lotide",
   "version": "1.0.0",
-  "description": "",
+  "description": "Lighthouselabs Lotide Project",
   "main": "assertArraysEqual.js",
   "directories": {
     "test": "test"
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/kevinchiuu/lotide.git"
   },
-  "author": "",
+  "author": "Kevin Chiu",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kevinchiuu/lotide/issues"

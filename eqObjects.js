@@ -59,7 +59,7 @@ console.log(eqObjects(ab, abc));
 const cd = { c: "1", d: ["2", 3] };
 const dc = { d: ["2", 3], c: "1" };
 //eqObjects(cd, dc); // => true
-//console.log(eqObjects(cd,dc));
+console.log(eqObjects(cd,dc));
 
 const cd2 = { c: "1", d: ["2", 3, 4] };
 //eqObjects(cd, cd2); // => false
